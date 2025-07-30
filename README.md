@@ -1,6 +1,9 @@
 # Sorteador de Amigo Secreto 🎁
 
 ![Prévia do Projeto](assets/imagemprojeto.png) 
+
+Link do projeto: https://sorteador-amigo-secreto-eta.vercel.app/
+
 ## Descrição
 
 Este é um projeto simples e funcional de um sorteador de "Amigo Secreto", desenvolvido como parte de um estudo prático de lógica de programação com JavaScript. A aplicação permite adicionar participantes, sortear um nome por vez sem repetição e reiniciar o sorteio.
@@ -20,7 +23,3 @@ O projeto foi construído utilizando as seguintes tecnologias web:
 * **HTML5:** Para a estrutura semântica do conteúdo.
 * **CSS3:** Para a estilização e o design da interface.
 * **JavaScript:** Para toda a lógica de programação, manipulação de eventos e interatividade.
-
-## Link do projeto
-
-https://sorteador-amigo-secreto-eta.vercel.app/

@@ -13,8 +13,6 @@ Este é um projeto simples e funcional de um sorteador de "Amigo Secreto", desen
 * **Reiniciar Sorteio:** Um botão para limpar todos os dados e começar um novo sorteio do zero.
 * **Interface Limpa:** Foco na usabilidade com feedback claro para o usuário.
 
----
-
 ## Tecnologias Utilizadas
 
 O projeto foi construído utilizando as seguintes tecnologias web:

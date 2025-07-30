@@ -5,7 +5,7 @@
 Link do projeto: https://sorteador-amigo-secreto-eta.vercel.app/
 
 ## Descrição
-
+Projeto realizado durante o programa ONE(Oracle Next Education) em parceria com a Alura.
 Este é um projeto simples e funcional de um sorteador de "Amigo Secreto", desenvolvido como parte de um estudo prático de lógica de programação com JavaScript. A aplicação permite adicionar participantes, sortear um nome por vez sem repetição e reiniciar o sorteio.
 
 ## Funcionalidades
